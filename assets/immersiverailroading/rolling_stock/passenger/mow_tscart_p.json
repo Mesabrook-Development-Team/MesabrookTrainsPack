@@ -1,0 +1,34 @@
+{
+	"name": "Speeder Cart (Passenger)",
+	"modeler": "TheGibster",
+	"pack": "Gibster's Texel Pack",
+	"model": "immersiverailroading:models/rolling_stock/passenger/mow_tscart_p/mow_tscart_p.obj",
+"tex_variants":{
+	"Red": "red",
+	"Orange": "orange"
+},
+	"darken_model": "0.0",
+	"sound_dampening_percentage": "0.00",
+	"properties": {
+		"weight_kg": 125,
+		"interior_light_level": 0.0	
+	},
+	"passenger": {
+		"slots": 2,
+		"center_x": 0,
+		"center_y": 1.25,
+		"length": .65,
+		"width": .25,
+		"should_sit": true
+	},
+	"trucks": {
+		"front": 0.55, 
+		"rear": -0.55	
+	},
+	"couplers": {
+		"front_slack": 0,
+		"rear_slack": 0,
+		"front_offset": -0.01,
+		"rear_offset": -0.01
+	}
+}

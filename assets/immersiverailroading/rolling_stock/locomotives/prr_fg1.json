@@ -1,0 +1,54 @@
+{
+  "era": "steam",
+  "name": "Aurora Australis",
+  "works": "Autumn Valley Steam Works",
+  "model": "immersiverailroading:models/rolling_stock/locomotives/prr_fg1/prr_fg1.obj",
+  "modeler": "Frosty_Nimiko & TrainDevil",
+  "pack": "Haywood River Lines Pack",
+  "darken_model": "-0.05",
+  "properties": {
+    "max_psi": 250,
+    "water_capacity_l": 50000,
+    "horsepower": 9500,
+    "tractive_effort_lbf": 114000,
+    "max_speed_kmh": 150,
+    "valve_gear": "mallet_walschaerts",
+    "weight_kg": 259908
+  },
+  "firebox": {
+    "slots": 12,
+    "width": 4
+  },
+  "passenger": {
+    "slots": 3,
+    "center_x": -7.5,
+    "center_y": 3,
+    "length": 0.6,
+    "width": 3.4,
+	"should_sit": true
+  },
+  "trucks": {
+    "front": 3.5,
+    "rear": -3.5
+  },
+  "couplers": {
+    "front_offset": -0.08,
+    "rear_offset": -1.7
+  },
+  "sounds": {
+    "idle": "sounds/prr_fg1/idle.ogg",
+    "chuff": "sounds/prr_fg1/chuff.ogg",
+    "bell": "sounds/prr_fg1/bell.ogg",
+    "quilling": [
+      {
+        "pull_start": 0.15,
+        "pull_end": 0.55,
+        "pitch_start": 0.65,
+        "pitch_end": .9,
+        "sample": "sounds/prr_fg1/whistle.ogg"
+      }
+    ]
+  },
+      "tex_variants": {	
+  }
+}

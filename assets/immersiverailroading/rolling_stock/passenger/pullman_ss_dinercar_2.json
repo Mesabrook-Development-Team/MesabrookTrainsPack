@@ -1,0 +1,27 @@
+{
+	"name": "Pullman Dinercar 2",
+    "modeler": "Lachie1770",
+	"pack": "Santa Fe Railroad",
+	"model": "immersiverailroading:models/rolling_stock/passenger/pullman_ss_dinercar_2/pullman_ss_dinercar.obj",
+	"darken_model": "-0.01",
+	"tex_variants": {
+	},
+	"properties": {
+		"weight_kg": 35000
+	},
+	"passenger": {
+		"slots": 25,
+		"center_x": 0,
+		"center_y": 1.50,
+		"length": 11.5,
+		"width": 2
+	},
+	"trucks": {
+		"front": 9.41, 
+		"rear": -9.41
+	},
+	"couplers": {
+		"front_offset": -0.09,
+		"rear_offset": -0.09
+	}
+}

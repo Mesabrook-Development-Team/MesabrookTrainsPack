@@ -1,0 +1,42 @@
+{
+	"name": "1937 40' AAR Boxcar 3",
+	"model": "immersiverailroading:models/rolling_stock/freight/aar_boxcar_3/aar_boxcar_2.obj",
+	"darken_model": "-0.01",
+	"tex_variants": {
+		"Beyer": "beyer_boxcar",
+		"CBP": "cbp",
+		"CBP Reefer": "cbp_reefer",
+		"IRW": "lbc_boxcar",
+		"NCX": "lnc2_boxcar",
+		"IRW": "lnc3",
+		"NCX": "lnc3_boxcar",
+		"IRW": "lvn_boxcar",
+		"IRW": "lnv2_boxcar",
+		"IRW": "rzbc_boxcar",
+		"IRW": "sprr_lesbian_boxcar",
+		"IRW": "sprr_trans_boxcar"
+	},	
+	"properties": {
+		"weight_kg": 20000
+	},
+	"passenger": {
+		"slots": 2,
+		"center_x": 0,
+		"center_y": 4.49,
+		"length": 4.5,
+		"width": 1
+	},
+	    "freight": {
+        "slots": 1,
+        "width": 1,
+        "cargo": ["all"]
+    },
+	"trucks": {
+		"front": 4.47, 
+		"rear": -4.47
+    },
+	"couplers": {
+		"front_offset": -0.09,
+		"rear_offset": -0.09
+	}
+}

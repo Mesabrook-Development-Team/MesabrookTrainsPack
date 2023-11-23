@@ -1,0 +1,32 @@
+{
+	"name": "Speeder Cart Drawbar",
+	"modeler": "TheGibster",
+	"pack": "Gibster's Texel Pack",
+	"model": "immersiverailroading:models/rolling_stock/freight/mow_drawbar/mow_bar.obj",
+	"darken_model": "0.0",
+	"properties": {
+		"weight_kg": 5	
+	},
+	"passenger": {
+		"slots": 0,
+		"center_x": 0,
+		"center_y": 0,
+		"length": 0,
+		"width": 0
+	},
+	"freight": {
+		"slots": 1,
+		"width": 1,
+		"cargo": ["all"]
+	},
+	"trucks": {
+		"front": 0.25, 
+		"rear": -0.25	
+	},
+	"couplers": {
+		"front_slack": 0,
+		"rear_slack": 0,
+		"front_offset": -0.125,
+		"rear_offset": -0.125
+	}
+}

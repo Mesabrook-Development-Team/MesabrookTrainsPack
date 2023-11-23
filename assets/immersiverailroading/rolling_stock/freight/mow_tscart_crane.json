@@ -1,0 +1,39 @@
+{
+	"name": "Speeder Crane Cart",
+	"modeler": "TheGibster",
+	"pack": "Gibster's Texel Pack",
+	"model": "immersiverailroading:models/rolling_stock/freight/mow_tscart_crane/mow_tscart_crane.obj",
+"tex_variants":{
+	"Red": "red",
+	"Orange": "orange"
+},
+	"darken_model": "0.0",
+	"sound_dampening_percentage": "0.00",
+	"properties": {
+		"weight_kg": 400,
+		"interior_light_level": 0.0	
+	},
+	"passenger": {
+		"slots": 1,
+		"center_x": -0.45,
+		"center_y": 0.75,
+		"length": .5,
+		"width": 1,
+		"should_sit": false
+	},
+	"freight": {
+		"slots": 1,
+		"width": 1,
+		"cargo": ["all"]
+	},
+	"trucks": {
+		"front": 0.55, 
+		"rear": -0.55	
+	},
+	"couplers": {
+		"front_slack": 0,
+		"rear_slack": 0,
+		"front_offset": -1.18,
+		"rear_offset": -0.01
+	}
+}

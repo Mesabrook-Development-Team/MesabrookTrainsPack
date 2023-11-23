@@ -1,0 +1,30 @@
+{
+	"name": "End of Train Flag",
+	"modeler": "TheGibster",
+	"pack": "Gibster's Texel Pack",
+	"model": "immersiverailroading:models/rolling_stock/freight/eot_flag/eot_flag.obj",
+	"darken_model": "0.0",
+	"properties": {
+		"weight_kg": 1	
+	},
+	"passenger": {
+		"slots": 0,
+		"center_x": 0,
+		"center_y": 0,
+		"length": .5,
+		"width": .5
+	},
+	"freight": {
+		"slots": 1,
+		"width": 1,
+		"cargo": ["all"]
+	},
+	"trucks": {
+		"front": 3, 
+		"rear": 0	
+	},
+	"couplers": {
+		"front_offset": -0.0325,
+		"rear_offset": 1
+	}
+}

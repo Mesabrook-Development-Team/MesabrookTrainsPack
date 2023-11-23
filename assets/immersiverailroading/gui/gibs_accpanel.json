@@ -1,0 +1,44 @@
+{
+  "elements": [
+    "immersiverailroading:gui/buttonpanel.json",
+    {
+      "comment": "Base Area",
+      "x": 95,
+      "y": -95,
+      "elements": [
+        {
+          "comment": "Open Menu Button",
+          "x": 0,
+          "y": 0,
+          "image": "immersiverailroading:gui/indicator.png",
+          "control": "AB"
+        },
+        {
+          "comment": "Menu Panel",
+          "x": 10,
+          "y": 0,
+          "image": "immersiverailroading:gui/overlay_steam.png",
+          "hide": true,
+          "control": "AB",
+          "comment2": "Put buttons for the Menu Panel in the below elements block",
+          "elements": [
+	{
+          "comment": "Horn",
+          "x": 2,
+          "y": -2,
+          "image": "immersiverailroading:gui/indicator.png",
+          "control": "HORN"
+        },
+	{
+          "comment": "Headlights Front",
+          "x": 2,
+          "y": -2,
+          "image": "immersiverailroading:gui/indicator.png",
+          "control": "FHD"
+        }
+          ]
+        }
+      ]
+    }
+  ]
+}

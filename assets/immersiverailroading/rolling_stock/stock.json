@@ -1,0 +1,60 @@
+{
+	"locomotives": [
+	    "gp40_2",
+		"atsf_emd_f3a_2",	
+	    "atsf_emd_f3b_2",	
+		"nw_class_a",		
+		"nyc_hudson",		
+	    "gp40_hh_2",
+		"u30c",
+		"es44ac",
+		"u30b",
+		"mow_tspeeder",
+		"mow_tspeeder_speedy",
+		"spsf_emd_sd40_2",
+		"prr_fg1",
+		"pullman_commuter_cab",
+		"hrl_mh1",
+		"emd_sd70ace",
+		"surfliner_cab",
+		"f59phi",
+		"f150"
+	],
+  "tender": [
+    "pt_6_tender",
+	"hrl_dual_duty",
+	"nw_auxtender",
+	"prr_ctc_oil"
+  ],
+	"hand_car": [
+	],
+	"passenger": [
+		"pullman_ss_chaircar_2",
+		"pullman_ss_dinercar_2",
+		"pullman_ss_vistadome_2",
+		"pullman_ss_observation_2",
+		"pullman_heavyweight_chaircar_2",
+		"pullman_heavyweight_diner_2",
+		"pullman_heavyweight_tailcar_2",
+		"mow_tscart_p",
+		"pullman_commuter_trailer",
+		"surfliner_coach"
+	],
+	"freight": [
+		"atsf_aar_boxcar_3",
+		"atsf_100ton_hopper_2",
+		"bhflat",
+		"cbflat",
+		"aargondola",
+		"eot",
+		"eot_flag",
+                "mow_drawbar",
+                "mow_tscart_f",
+                "mow_tscart_crane", 
+                "mow_tscart_long",
+		"spsf_70ton_boxcar"
+	],
+	"tank": [
+		"atsf_us_tankcar_2"
+	]
+}

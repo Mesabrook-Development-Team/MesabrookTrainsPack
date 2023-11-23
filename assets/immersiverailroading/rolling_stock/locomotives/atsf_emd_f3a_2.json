@@ -1,0 +1,40 @@
+{
+	"era": "diesel",
+	"name": "EMD F3A",
+    "modeler": "Lachie1770",
+	"pack": "Santa Fe Railroad",
+	"works": "Electro-Motive Division",
+	"model": "immersiverailroading:models/rolling_stock/locomotives/emd_f3a_2/emd_f3a.obj",
+	"darken_model": "-0.01",
+	"tex_variants": {
+		"Leviathan 102": "lvn_102"
+	},
+	"properties": {
+		"fuel_efficiency_%": 62,
+		"fuel_capacity_l": 6435,
+		"horsepower": 1750,
+		"tractive_effort_lbf": 55000,
+		"max_speed_kmh": 166,
+		"weight_kg": 112944,
+		"horn_sustained": true
+	},
+	"passenger": {
+		"slots": 4,
+		"center_x": 4.76,
+		"center_y": 2.31,
+		"length": 0.5,
+		"width": 2.8
+	},
+	"trucks": {
+		"front": 4.62,
+		"rear": -5.20
+	},
+    "couplers": {
+		"front_offset": -0.09,
+		"rear_offset": -0.09
+	},
+	"sounds": {
+		"bell": "sounds/bell/dbell.ogg",
+		"horn": "sounds/diesel/f3/horn.ogg"
+	}
+}

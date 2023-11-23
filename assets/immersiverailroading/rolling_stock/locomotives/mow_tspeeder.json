@@ -1,0 +1,55 @@
+{
+	"era": "diesel",
+	"name": "Railroad Speeder",
+	"works": "Carsons Railworks",
+	"modeler": "TheGibster",
+	"pack": "Gibster's Texel Pack",
+	"model": "immersiverailroading:models/rolling_stock/locomotives/mow_tspeeder/mow_tspeeder.obj",
+"tex_variants":{
+	"Red": "red",
+	"Orange": "orange"
+},
+	"darken_model": "0.00",
+	"sound_dampening_percentage": "0.00",
+	"properties": {
+		"fuel_efficiency_%": 2000,
+		"fuel_capacity_l": 20,
+		"horsepower": 18,
+		"tractive_effort_lbf": 1000,
+		"max_speed_kmh": 65,
+		"weight_kg": 1300,
+		"linear_brake_control": true,
+		"interior_light_level": 0.0	
+	},
+	"passenger": {
+		"slots": 2,
+		"center_x": -0.2,
+		"center_y": 0.70,
+		"length": 0.1,
+		"width": 1.6,
+		"should_sit": true
+	},
+	"trucks": {
+		"front": 0.5, 
+		"rear": -0.5
+	},
+    "couplers": {
+		"front_slack": 0,
+		"rear_slack": 0,
+		"front_offset": -0.01,
+		"rear_offset": -0.01
+	},
+	"sounds": {
+		"horn": "sounds/diesel/mow_tspeeder/carhorn.ogg",
+		"idle": "sounds/diesel/mow_tspeeder/2cyl.ogg",
+                "bell": "sounds/diesel/speederbell.ogg"
+	},
+	"lights": {
+		"HEADLIGHT_1": {
+		"castsLight": true
+		},
+		"HEADLIGHT_2": {
+		"castsLight": false
+		}
+	}
+}
