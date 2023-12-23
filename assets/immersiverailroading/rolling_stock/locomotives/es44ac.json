@@ -16,7 +16,8 @@
 		"IRW": "1402",
 		"IRW": "tracktester",
 		"IRW": "1403",
-		"North Port Rail":  "npr"
+		"North Port Rail": "npr",
+		"IRW (Holiday)": "ironriverholiday"
 	},
 	"darken_model": "0.00",
 	"sound_dampening_percentage": "0.75",

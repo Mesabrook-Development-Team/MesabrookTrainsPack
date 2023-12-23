@@ -5,9 +5,10 @@
 	"pack": "Southern Pacific Santa Fe",
 	"works": "Electro-Motive Division",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/gp40_2/gp40.obj",
-	"darken_model": "-0.01",
 	"tex_variants": {
+		"Crystal Beach & Pacific": "cbp"
 	},
+	"darken_model": "-0.01",
 	"properties": {
 		"fuel_efficiency_%": 62,
 		"fuel_capacity_l": 6435,
@@ -28,7 +29,7 @@
 		"front": 5.40,
 		"rear": -5.40
 	},
-    "couplers": {
+	"couplers": {
 		"front_offset": -0.09,
 		"rear_offset": -0.09
 	},

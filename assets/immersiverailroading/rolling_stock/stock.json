@@ -48,11 +48,14 @@
 		"aargondola",
 		"eot",
 		"eot_flag",
-                "mow_drawbar",
-                "mow_tscart_f",
-                "mow_tscart_crane", 
-                "mow_tscart_long",
-		"spsf_70ton_boxcar"
+		"mow_drawbar",
+		"mow_tscart_f",
+		"mow_tscart_crane",
+		"mow_tscart_long",
+		"spsf_70ton_boxcar",
+		"cn_100ton_graincar",
+		"cp_logcar",
+		"spsf_100ton_logcar"
 	],
 	"tank": [
 		"atsf_us_tankcar_2"

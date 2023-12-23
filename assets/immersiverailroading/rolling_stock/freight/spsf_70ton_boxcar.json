@@ -11,7 +11,12 @@
 		"IRW": "70ton_lvn",
 		"IRW": "70ton_lvn_mroute",
 		"IRW": "70ton_sprr",
-		"RZFS": "70ton_rzfs"
+		"RZFS": "70ton_rzfs",
+		"Holiday (Mesabrook)": "70ton_irw_holiday_1",
+		"Holiday (Holiday)": "70ton_irw_holiday_2",
+		"Holiday (Train)": "70ton_irw_holiday_3",
+		"Holiday (Festive 1)": "70ton_irw_holiday_4",
+		"Holiday (Festive 2)": "70ton_irw_holiday_5"
 	},	
 	"properties": {
 		"weight_kg": 33000
