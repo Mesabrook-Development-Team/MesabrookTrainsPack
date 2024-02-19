@@ -1,0 +1,16 @@
+{
+  "name": "ATSF Trestle Bridge Track",
+  "models": {
+    ">0": "immersiverailroading:models/track/spsf_trestle_part1/spsf_trestle_part1.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "ore:irTie",
+      "cost": 1
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}

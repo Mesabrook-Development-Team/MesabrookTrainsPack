@@ -1,0 +1,16 @@
+{
+  "name": "ATSF Track Wood - 3ft 6inc",
+  "models": {
+    ">0": "immersiverailroading:models/track/spsf_track_wood_1067mm/spsf_track_wood_1067mm.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "ore:irTie",
+      "cost": 1
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ATSF Girder Bridge",
+  "models": {
+    ">0": "immersiverailroading:models/track/sf_girderbridge/sf_girderbridge.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "ore:irTie",
+      "cost": 1
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}

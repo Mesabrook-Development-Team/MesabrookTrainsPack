@@ -1,0 +1,16 @@
+{
+  "name": "ATSF Track Wood - Wide Ballast",
+  "models": {
+    ">0": "immersiverailroading:models/track/spsf_standard_track_wideballast/spsf_tracks_wideballast.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "ore:irTie",
+      "cost": 1
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}

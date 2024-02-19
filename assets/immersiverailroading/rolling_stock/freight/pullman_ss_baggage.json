@@ -1,0 +1,37 @@
+{
+	"name": "Pullman Baggage",
+    "modeler": "Lachie1770",
+    "pack": "Southern Pacific Santa Fe",
+	"model": "immersiverailroading:models/rolling_stock/freight/pullman_ss_baggage/pullman_ss_baggage.obj",
+	"darken_model": "-0.01",
+	"tex_variants": {
+		"SP": "sp",
+		"N&W": "nw",
+		"C&O": "co",
+		"CP": "cp",
+		"Amtrak": "amtrak"
+	},
+	"properties": {
+		"weight_kg": 39000
+	},
+	"passenger": {
+		"slots": 8,
+		"center_x": 0,
+		"center_y": 1.50,
+		"length": 9,
+		"width": 2
+	},
+	    "freight": {
+        "slots": 1,
+        "width": 1,
+        "cargo": ["all"]
+	},
+	"trucks": {
+		"front": 6.24, 
+		"rear": -6.24
+	},
+	"couplers": {
+		"front_offset": -0.09,
+		"rear_offset": -0.09
+	}
+}

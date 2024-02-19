@@ -1,0 +1,16 @@
+{
+  "name": "ATSF Concrete Crossing - Middle",
+  "models": {
+    ">0": "immersiverailroading:models/track/atsf_crossing_track_middle/atsf_crossing_track_middle.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "ore:irTie",
+      "cost": 1
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}

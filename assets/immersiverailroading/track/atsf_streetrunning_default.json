@@ -1,0 +1,16 @@
+{
+  "name": "ATSF Street running - V2",
+  "models": {
+    ">0": "immersiverailroading:models/track/atsf_streetrunning_default/atsf_streetrunning_default.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "ore:irTie",
+      "cost": 1
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}

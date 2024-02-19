@@ -1,0 +1,35 @@
+{
+	"name": "Pullman Heavyweight RPO",
+    "modeler": "Modified from Heavyweight Baggage by Parkman",
+	"pack": "Southern Pacific Santa Fe",
+	"model": "immersiverailroading:models/rolling_stock/freight/pullman_heavyweight_rpo/rpo.obj",
+	"darken_model": "-0.01",
+	"tex_variants": {
+		"SantaFe": "atsf",
+		"MILW": "milw",
+		"Southern": "southern"
+	},
+	"properties": {
+		"weight_kg": 39000
+	},
+	"passenger": {
+		"slots": 10,
+		"center_x": 0,
+		"center_y": 1.45,
+		"length": 12,
+		"width": 2
+	},
+	    "freight": {
+        "slots": 1,
+        "width": 1,
+        "cargo": ["all"]
+	},
+	"trucks": {
+		"front": 9.12, 
+		"rear": -9.12
+	},
+	"couplers": {
+		"front_offset": -0.09,
+		"rear_offset": -0.09
+	}
+}

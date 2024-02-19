@@ -1,0 +1,16 @@
+{
+  "name": "SPSF Street Running - Asphalt",
+  "models": {
+    ">0": "immersiverailroading:models/track/spsf_street_running/spsf_street_running_asphalt.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "minecraft:concrete|8",
+      "cost": 1
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}

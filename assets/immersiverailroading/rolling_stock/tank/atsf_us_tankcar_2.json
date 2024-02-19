@@ -5,6 +5,7 @@
     "model": "immersiverailroading:models/rolling_stock/tank/atsf_us_tankcar_2/atsf_us_tankcar.obj",
 	"tex_variants": {
     "IRW": "lvn",
+    "CGTX": "cgtx",
     "CBP (Northstar)":  "northstar"
 	},
     "darken_model": "-0.01",

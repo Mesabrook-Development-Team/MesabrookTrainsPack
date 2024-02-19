@@ -6,8 +6,7 @@
 	"darken_model": "-0.01",
 	"tex_variants": {
 		"LNC": "lnc",
-		"Australis": "australis_tailcar",
-		"IRW (Holiday)": "holiday"
+		"Australis": "australis_tailcar"
 	},
 	"properties": {
 		"weight_kg": 35000

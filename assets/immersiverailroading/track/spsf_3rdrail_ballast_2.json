@@ -1,0 +1,16 @@
+{
+  "name": "ATSF 3rd Rail - Ballast 2 - LEFT",
+  "models": {
+    ">0": "immersiverailroading:models/track/spsf_3rdrail_ballast_2/spsf_3rdrail_ballast_2.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "ore:irTie",
+      "cost": 1
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}

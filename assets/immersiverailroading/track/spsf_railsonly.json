@@ -1,0 +1,16 @@
+{
+  "name": "ATSF Track - Rails only",
+  "models": {
+    ">0": "immersiverailroading:models/track/spsf_railsonly/spsf_railsonly.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "ore:irTie",
+      "cost": 1
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}

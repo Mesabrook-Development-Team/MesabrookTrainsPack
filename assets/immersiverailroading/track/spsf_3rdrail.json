@@ -1,0 +1,16 @@
+{
+  "name": "ATSF 3rd Rail - LEFT",
+  "models": {
+    ">0": "immersiverailroading:models/track/spsf_3rdrail/spsf_3rdrail.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "ore:irTie",
+      "cost": 1
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}

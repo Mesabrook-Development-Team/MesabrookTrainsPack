@@ -1,0 +1,16 @@
+{
+  "name": "ATSF NYC Elevated Track - 5 Wide",
+  "models": {
+    ">0": "immersiverailroading:models/track/spsf_nyc_bridge2/spsf_tracks_bridge2.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "ore:irTie",
+      "cost": 1
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}

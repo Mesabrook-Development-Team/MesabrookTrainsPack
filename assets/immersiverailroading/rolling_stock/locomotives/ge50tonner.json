@@ -1,0 +1,46 @@
+{
+  "era": "diesel",
+  "name": "GE 50Ton Diesel",
+  "works": "General Electric",
+  "modeler": "TheKnowItAll5",
+  "pack": "LNC_NG_Pack",
+  "model": "immersiverailroading:models/rolling_stock/locomotives/ge50tonner/ge50tonner.obj",
+  "tex_variants": {
+    "1": "1",
+	"2": "2",
+	"3": "3",
+	"4": "4"
+  },
+  "recommended_gauge_m": 0.9144,
+  "darken_model": "-0.01",
+  "multi_unit_capable": "false",
+  "properties": {
+    "fuel_efficiency_%": 90,
+    "fuel_capacity_l": 946,
+    "horsepower": 450,
+    "tractive_effort_lbf": 25500,
+    "max_speed_kmh": 64,
+    "weight_kg": 46266,
+    "horn_sustained": true
+  },
+  "passenger": {
+    "slots": 2,
+    "center_x": -5.2,
+    "center_y": 2.4,
+    "length": 1.3,
+    "width": 2.91
+  },
+  "trucks": {
+    "front": 5,
+    "rear": -5
+  },
+  "couplers": {
+    "front_offset": -0.15,
+    "rear_offset": -0.15
+  },
+	"sounds": {
+		"horn": "sounds/diesel/horns/leslie_a200.ogg",
+                "bell": "sounds/bell/mech_bell.ogg"
+
+	}
+}

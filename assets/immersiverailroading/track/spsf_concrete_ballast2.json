@@ -1,0 +1,16 @@
+{
+  "name": "ATSF Track - Concrete Sleepers Ballast Wide",
+  "models": {
+    ">0": "immersiverailroading:models/track/sf_concrete_sleepers_ballast2/sf_concrete_sleepers_ballast2.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "minecraft:concrete|8",
+      "cost": 1
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}

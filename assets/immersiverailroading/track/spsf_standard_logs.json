@@ -1,0 +1,16 @@
+{
+  "name": "ATSF Track - Logs",
+  "models": {
+    ">0": "immersiverailroading:models/track/spsf_standard_track_logs/spsf_tracks.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "ore:irTie",
+      "cost": 1
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ATSF Tram Tracks - Rails only",
+  "models": {
+    ">0": "immersiverailroading:models/track/spsf_tramtracks4/spsf_tramtracks4.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "ore:irTie",
+      "cost": 1
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}

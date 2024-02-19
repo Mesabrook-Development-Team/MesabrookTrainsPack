@@ -1,0 +1,16 @@
+{
+  "name": "ATSF Street running - v2 - Wide",
+  "models": {
+    ">0": "immersiverailroading:models/track/atsf_streetrunning_wide/atsf_streetrunning_wide.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "ore:irTie",
+      "cost": 1
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}

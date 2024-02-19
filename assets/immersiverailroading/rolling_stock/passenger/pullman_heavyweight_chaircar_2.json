@@ -16,9 +16,7 @@
 		"Aurora Australis": "australis",
 		"Aurora Borealis": "borealis",
 		"Australis - Addie Jo": "australis_addie",
-		"Australis - Autumn": "australis_autumn",
-		"IRW (Festive 1)": "holiday_1",
-		"IRW (Festive 2)": "holiday_2"
+		"Australis - Autumn": "australis_autumn"
 	},
 	"properties": {
 		"weight_kg": 35000

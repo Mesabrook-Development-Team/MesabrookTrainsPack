@@ -9,7 +9,8 @@
 		"CBP 2": "cbp2",
 		"CBP 3": "cbp3",
 		"GNCX": "gncx",
-		"PBLX": "pblx"
+		"PBLX": "pblx",
+		"NSCX":  "nscx"
 	},	
 	"properties": {
 		"weight_kg": 26000

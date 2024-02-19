@@ -1,0 +1,16 @@
+{
+  "name": "ATSF Track - Logs Ballast wide",
+  "models": {
+    ">0": "immersiverailroading:models/track/spsf_standard_track_logswideballast/spsf_tracks_ballast2.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "ore:irTie",
+      "cost": 1
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ATSF Track Wood",
+  "models": {
+    ">0": "immersiverailroading:models/track/spsf_simple_bridge/spsf_simple_bridge.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "ore:irTie",
+      "cost": 1
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ATSF Bridge Track",
+  "models": {
+    ">0": "immersiverailroading:models/track/spsf_bridge_track/spsf_bridge_track.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "ore:irTie",
+      "cost": 1
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}

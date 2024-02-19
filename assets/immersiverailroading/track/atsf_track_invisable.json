@@ -1,0 +1,16 @@
+{
+  "name": "ATSF Invisable",
+  "models": {
+    ">0": "immersiverailroading:models/track/atsf_track_invisable/atsf_track_wood.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "ore:irTie",
+      "cost": 9999
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 9999
+    }]
+  }
+}
