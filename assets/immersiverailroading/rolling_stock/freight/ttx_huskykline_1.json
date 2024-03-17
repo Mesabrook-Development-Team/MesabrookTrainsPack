@@ -3,7 +3,8 @@
 	"model": "immersiverailroading:models/rolling_stock/freight/ttx_huskykline_1/ttx_huskykline_1.obj",
 	"darken_model": "-0.05",
 	"properties": {
-		"weight_kg": 18318
+		"weight_kg": 18318,
+		"independent_brake": true
 	},
 	"passenger": {
 		"slots": 1,

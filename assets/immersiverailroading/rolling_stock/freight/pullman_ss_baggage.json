@@ -12,7 +12,8 @@
 		"Amtrak": "amtrak"
 	},
 	"properties": {
-		"weight_kg": 39000
+		"weight_kg": 39000,
+		"independent_brake": true
 	},
 	"passenger": {
 		"slots": 8,

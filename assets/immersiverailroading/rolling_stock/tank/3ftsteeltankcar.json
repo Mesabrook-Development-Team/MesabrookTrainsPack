@@ -17,7 +17,8 @@
     "11": "11"
   },
   "properties": {
-    "weight_kg": 20000
+    "weight_kg": 20000,
+	"independent_brake": true
   },
   "passenger": {
     "slots": 2,

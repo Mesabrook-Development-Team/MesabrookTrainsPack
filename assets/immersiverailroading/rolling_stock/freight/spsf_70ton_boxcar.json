@@ -14,7 +14,8 @@
 		"RZFS": "70ton_rzfs"
 	},	
 	"properties": {
-		"weight_kg": 33000
+		"weight_kg": 33000,
+		"independent_brake": true
 	},
 	"passenger": {
 		"slots": 2,

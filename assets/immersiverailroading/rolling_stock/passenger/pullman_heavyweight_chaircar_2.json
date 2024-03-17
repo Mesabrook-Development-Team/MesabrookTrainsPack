@@ -19,7 +19,8 @@
 		"Australis - Autumn": "australis_autumn"
 	},
 	"properties": {
-		"weight_kg": 35000
+		"weight_kg": 35000,
+		"independent_brake": true
 	},
 	"passenger": {
 		"slots": 25,

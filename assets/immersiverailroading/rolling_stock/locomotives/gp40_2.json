@@ -34,6 +34,8 @@
 	},
 	"sounds": {
 		"bell": "sounds/bell/dbell.ogg",
-		"horn": "sounds/diesel/horns/nathan_k3la.ogg"
+		"horn": "sounds/diesel/horns/nathan_k3la.ogg",
+		"idle": "sounds/diesel/gp38_2/idle.ogg",
+		"running": "sounds/diesel/gp38_2/notch6.ogg"
 	}
 }
