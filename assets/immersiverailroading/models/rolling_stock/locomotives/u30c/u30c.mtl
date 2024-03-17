@@ -1,5 +1,5 @@
 # Blender MTL File: 'u30c.blend'
-# Material Count: 8
+# Material Count: 12
 
 newmtl None
 Ns 500
@@ -20,7 +20,18 @@ d 1.000000
 illum 2
 map_Kd adirondack.png
 
-newmtl coupler.002
+newmtl coupler.003
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd coupler.png
+
+newmtl coupler.004
 Ns 225.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
@@ -53,6 +64,17 @@ d 1.000000
 illum 2
 map_Kd u30c_frame.png
 
+newmtl u30b_frame.000
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd u30c_frame.png
+
 newmtl u30b_lettering
 Ns 225.000000
 Ka 1.000000 1.000000 1.000000
@@ -63,6 +85,17 @@ Ni 1.450000
 d 1.000000
 illum 2
 map_Kd u30c_lettering.png
+
+newmtl u30b_shell.000
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd u30c_shell.png
 
 newmtl u30b_shell.001
 Ns 225.000000
@@ -85,3 +118,14 @@ Ni 1.450000
 d 1.000000
 illum 2
 map_Kd u30c_shell.png
+
+newmtl uboot_glass
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd uboot_glass.png
