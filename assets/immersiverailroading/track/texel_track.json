@@ -1,0 +1,16 @@
+{
+"name": "Texel Track - Default",
+"models": {
+	">0": "immersiverailroading:models/track/texel_track/texel_sg.obj"
+   },
+"materials": {
+    "TIE": [{
+      "item": "ore:ingotSteel",
+      "cost": 8
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+}
+}

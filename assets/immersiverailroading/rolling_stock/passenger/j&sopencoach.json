@@ -7,7 +7,12 @@
   "darken_model": "-0.05",
   "recommended_gauge_m": 0.9144,
   "properties": {
+<<<<<<< Updated upstream
     "weight_kg": 14515
+=======
+    "weight_kg": 14515,
+	"independent_brake": true
+>>>>>>> Stashed changes
   },
   "tex_variants": {
     "1": "1",

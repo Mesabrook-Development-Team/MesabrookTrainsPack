@@ -21,7 +21,12 @@
     "15": "15"
   },
   "properties": {
+<<<<<<< Updated upstream
     "weight_kg": 10205
+=======
+    "weight_kg": 10205,
+	"independent_brake": true	
+>>>>>>> Stashed changes
   },
   "passenger": {
     "slots": 2,

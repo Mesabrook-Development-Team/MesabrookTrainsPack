@@ -9,7 +9,7 @@
 	"sound_dampening_percentage": "0.75",
 	"properties": {
 		"fuel_efficiency_%": 97,
-		"fuel_capacity_l": 42475,
+		"fuel_capacity_l": 10927,
 		"horn_sustained": true,
 		"horsepower": 3000,
 		"tractive_effort_lbf": 38240,

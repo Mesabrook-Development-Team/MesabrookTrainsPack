@@ -1,0 +1,16 @@
+{
+"name": "Texel Track - Grassy Ballast Mix",
+"models": {
+	">0": "immersiverailroading:models/track/texel_track/texel_grassballastmix.obj"
+   },
+"materials": {
+    "TIE": [{
+      "item": "ore:ingotSteel",
+      "cost": 8
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+}
+}

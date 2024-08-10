@@ -10,7 +10,12 @@
 		"Southern": "southern"
 	},
 	"properties": {
+<<<<<<< Updated upstream
 		"weight_kg": 39000
+=======
+		"weight_kg": 39000,
+		"independent_brake": true
+>>>>>>> Stashed changes
 	},
 	"passenger": {
 		"slots": 10,

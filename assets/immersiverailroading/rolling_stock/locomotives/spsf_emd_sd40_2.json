@@ -35,6 +35,7 @@
 	},
 	"sounds": {
 		"horn": "sounds/diesel/sd40_2/horn.ogg",
-		"idle": "sounds/diesel/sd40_2/notch6.ogg"
+		"idle": "sounds/diesel/sd40_2/idle.ogg",
+		"running": "sounds/diesel/sd40_2/notch6.ogg"
 	}
 }

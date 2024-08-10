@@ -5,7 +5,8 @@
 	"pack": "Santa Fe Railroad/Mesabrook Trains",
 	"darken_model": "-0.01",	
 	"properties": {
-		"weight_kg": 26000
+		"weight_kg": 26000,
+		"independent_brake": true
 	},
 	"passenger": {
 		"slots": 2,

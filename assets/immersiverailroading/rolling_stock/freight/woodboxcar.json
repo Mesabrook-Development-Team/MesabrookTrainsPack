@@ -4,7 +4,12 @@
   "darken_model": "0",
   "recommended_gauge_m": 0.9144,
   "properties": {
+<<<<<<< Updated upstream
     "weight_kg": 10205
+=======
+    "weight_kg": 10205,
+	"independent_brake": true	
+>>>>>>> Stashed changes
   },
   "passenger": {
     "slots": 4,

@@ -1,0 +1,16 @@
+{
+"name": "Texel Track - Default: Double Sleepers",
+"models": {
+	">0": "immersiverailroading:models/track/texel_track/texel_track_duosleepers.obj"
+   },
+"materials": {
+    "TIE": [{
+      "item": "ore:ingotSteel",
+      "cost": 8
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+}
+}

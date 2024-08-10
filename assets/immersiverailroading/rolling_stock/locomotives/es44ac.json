@@ -47,8 +47,11 @@
 	},
 	"sounds": {
 		"horn": "sounds/gevo/k5hll_horn.ogg",
-		"idle": "sounds/gevo/gevo12_notch6.ogg",
-                "bell": "sounds/gevo/gevobell.ogg"
+		"running": "sounds/diesel/c40/moderngenotch6.ogg",
+		"idle": "sounds/diesel/c40/ge7fdlidle.ogg",
+		"start": "sounds/diesel/c40/ge7fdlstart.ogg",
+		"stop": "sounds/diesel/c40/ge7fdlshutdown.ogg",
+		"bell": "sounds/gevo/gevobell.ogg"
 	},
 	"lights": {
 		"HEADLIGHT_1": {

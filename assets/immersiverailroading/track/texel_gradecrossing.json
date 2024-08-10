@@ -1,0 +1,16 @@
+{
+"name": "Texel Track - Grade Crossing",
+"models": {
+  ">0": "immersiverailroading:models/track/texel_track/texel_gradecrossing.obj"
+   },
+"materials": {
+    "TIE": [{
+      "item": "ore:ingotSteel",
+      "cost": 8
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+}
+}

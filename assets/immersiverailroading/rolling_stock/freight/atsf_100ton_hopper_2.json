@@ -13,7 +13,8 @@
 		"NSCX":  "nscx"
 	},	
 	"properties": {
-		"weight_kg": 26000
+		"weight_kg": 26000,
+		"independent_brake": true
 	},
 	"passenger": {
 		"slots": 2,

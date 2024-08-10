@@ -3,7 +3,12 @@
 	"model": "immersiverailroading:models/rolling_stock/freight/autorack_trilevel/autorack_trilevel.obj",
 	"darken_model": "-0.05",
 	"properties": {
+<<<<<<< Updated upstream
 		"weight_kg": 15000
+=======
+		"weight_kg": 15000,
+		"independent_brake": true
+>>>>>>> Stashed changes
 	},
 	"passenger": {
 		"slots": 4,
