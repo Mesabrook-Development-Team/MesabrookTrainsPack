@@ -6,7 +6,7 @@
 	"pack": "DarkRaider's Monorails",
 	"model": "immersiverailroading:models/rolling_stock/wdw_mark_vi/wdw_mark_vi.obj",
 	"tex_variants": {
-		"RaiderTech Railroad": "rtr"
+		"Mesabrook Transit": "rtr"
 	},
 	"darken_model": "-0.05",
 	"sound_dampening_percentage": "0.75",
