@@ -5,7 +5,12 @@
 	"model_gauge_m": 2.7,
 	"recommended_gauge_m": 0.9144,
 	"properties": {
+<<<<<<< Updated upstream
 		"weight_kg": 10200
+=======
+		"weight_kg": 10200,
+		"independent_brake": true
+>>>>>>> Stashed changes
 	},
 	"passenger": {
 		"slots": 4,

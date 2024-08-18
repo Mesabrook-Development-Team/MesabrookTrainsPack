@@ -16,6 +16,9 @@
                 "ge50tonner",
 		"surfliner_cab",
 		"f59phi",
+                "25ton",
+                "t5l64",
+                "wdw_mark_vi",
 		"f150"
 	],
   "tender": [
@@ -31,6 +34,8 @@
 		"pullman_heavyweight_chaircar_2",
 		"pullman_heavyweight_diner_2",
 		"pullman_heavyweight_tailcar_2",
+                "t5l64_vag4",
+                "t5l64_vag3",
 		"mow_tscart_p",
                 "j&sbaggage",
                 "j&scombine",
@@ -39,6 +44,8 @@
                 "j&sbusiness",
                 "j&sobservation",
                 "coach7",
+                "wdw_mark_vi_car",
+                "wdw_mark_vi_diaphragm",
 		"surfliner_coach"
 	],
 	"freight": [

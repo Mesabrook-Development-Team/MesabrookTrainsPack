@@ -3,7 +3,12 @@
 	"model": "immersiverailroading:models/rolling_stock/freight/hi_cube_boxcar_1/hi_cube_boxcar_1.obj",
 	"darken_model": "-0.05",
 	"properties": {
+<<<<<<< Updated upstream
 		"weight_kg": 35000
+=======
+		"weight_kg": 35000,
+		"independent_brake": true
+>>>>>>> Stashed changes
 	},
 	"passenger": {
 		"slots": 2,

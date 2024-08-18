@@ -1,0 +1,217 @@
+{
+	"era": "diesel",
+	"name": "Light-Rail Tram Locomotive",
+	"works": "Carsons",
+	"model": "immersiverailroading:models/rolling_stock/locomotives/t5l64/t5l64.obj",
+	"modeler": "Dewrow",
+	"pack": "Tram pack IR",
+        "tex_variants":{
+		"route_2": "route_2",
+		"route_3": "route_3",
+		"route_4": "route_4",
+		"route_5": "route_5",
+		"route_6": "route_6",
+		"route_7": "route_7",
+		"route_8": "route_8",
+		"route_9": "route_9",
+		"route_test": "route_test",
+		"route_depot": "route_depot"
+                       },
+	"properties": {
+		"fuel_efficiency_%": 80,
+		"fuel_capacity_l": 3600,
+		"horsepower": 350,
+		"horn_sustained": true,
+		"tractive_effort_lbf": 10000,
+		"max_speed_kmh": 80,
+		"weight_kg": 2000,
+        "linear_brake_control": true,
+        "presure_brake": false,
+		"throttle_notches":30,
+		"swaymultiplier":0,
+		"tiltmultiplier":0
+	              },
+	"passenger": {
+		"slots": 50,
+		"center_x": 0.5,
+		"center_y": 0.6,
+		"length": 3,
+		"width": 1.9
+	             },
+	"trucks": {
+		"front": 0.812406, 
+		"rear": -2.38955
+	          },
+    "couplers": {
+		"front_offset": 0,
+		"rear_offset": -0.91152,
+        "front_slack": 0,
+        "rear_slack": 0
+                      },
+	"sounds": {
+		        "horn": "sounds/diesel/horns/lightrailhorn.ogg",
+                "bell": "sounds/bell/lightrailbell.ogg",
+				"running": "sounds/diesel/run3.ogg",
+		        "idle": "sounds/mechsounds/silent.ogg",
+                "wheels": "sounds/mechsounds/wheels1.ogg",
+                "clack_front": "sounds/mechsounds/silent.ogg",
+                "clack_rear": "sounds/mechsounds/silent.ogg",
+                "couple": "sounds/mechsounds/silent.ogg",
+                "flange": "sounds/mechsounds/silent.ogg",
+                "controls": {
+                             "ENGINE_START_1": {
+                                        "engage": "sounds/mechsounds/silent.ogg",
+                                        "move": "sounds/mechsounds/silent.ogg",
+                                        "disengage": "sounds/mechsounds/button4.ogg"
+                                         },
+                             "ENGINE_START_2": {
+                                        "engage": "sounds/mechsounds/silent.ogg",
+                                        "move": "sounds/mechsounds/silent.ogg",
+                                        "disengage": "sounds/mechsounds/button4.ogg"
+                                         },
+                             "WIDGET_11": {
+                                        "engage": "sounds/micro/micro1.ogg",
+                                        "move": "sounds/micro/micro2.ogg",
+                                        "disengage": "sounds/micro/micro1.ogg"
+                                         },
+                             "WIDGET_6": {
+                                        "engage": "sounds/mechsounds/silent.ogg",
+                                        "move": "sounds/mechsounds/silent.ogg",
+                                        "disengage": "sounds/mechsounds/button4.ogg"
+                                         },
+                             "WIDGET_30": {
+                                        "engage": "sounds/mechsounds/silent.ogg",
+                                        "move": "sounds/mechsounds/silent.ogg",
+                                        "disengage": "sounds/mechsounds/button4.ogg"
+                                         },
+                             "WIDGET_31": {
+                                        "engage": "sounds/mechsounds/silent.ogg",
+                                        "move": "sounds/mechsounds/silent.ogg",
+                                        "disengage": "sounds/mechsounds/button4.ogg"
+                                         },
+                             "WIDGET_32": {
+                                        "engage": "sounds/mechsounds/silent.ogg",
+                                        "move": "sounds/mechsounds/silent.ogg",
+                                        "disengage": "sounds/mechsounds/button4.ogg"
+                                         },
+                             "WIDGET_33": {
+                                        "engage": "sounds/mechsounds/silent.ogg",
+                                        "move": "sounds/mechsounds/silent.ogg",
+                                        "disengage": "sounds/mechsounds/button4.ogg"
+                                         },
+                             "WIDGET_34": {
+                                        "engage": "sounds/mechsounds/silent.ogg",
+                                        "move": "sounds/mechsounds/silent.ogg",
+                                        "disengage": "sounds/mechsounds/button4.ogg"
+                                         },
+                             "WIDGET_35": {
+                                        "engage": "sounds/mechsounds/silent.ogg",
+                                        "move": "sounds/mechsounds/silent.ogg",
+                                        "disengage": "sounds/mechsounds/button4.ogg"
+                                         },
+                             "WIDGET_36": {
+                                        "engage": "sounds/mechsounds/silent.ogg",
+                                        "move": "sounds/mechsounds/silent.ogg",
+                                        "disengage": "sounds/mechsounds/button4.ogg"
+                                         },
+                             "WIDGET_10": {
+                                        "engage": "sounds/mechsounds/silent.ogg",
+                                        "move": "sounds/mechsounds/silent.ogg",
+                                        "disengage": "sounds/mechsounds/button4.ogg"
+                                         }
+                            }
+                  },
+    "animations": [
+                 {
+                  "control_group": "PANT",
+                  "animatrix": "immersiverailroading:models/rolling_stock/locomotives/t5l64/pant.anim",
+                  "offset": 0,
+                  "invert": false,
+                  "mode": "PLAY_BOTH",
+                  "frames_per_tick": 1.1,
+                  "sound": {
+                            "main": "sounds/mechsounds/servo1.ogg"
+                           }
+                 },
+                 {
+                  "control_group": "WIPERS",
+                  "animatrix": "immersiverailroading:models/rolling_stock/locomotives/t5l64/wipers.anim",
+                  "offset": 0,
+                  "invert": false,
+                  "mode": "loop",
+                  "frames_per_tick": 1.0
+                 },
+                 {
+                  "readout": "SPEED",
+                  "animatrix": "immersiverailroading:models/rolling_stock/locomotives/t5l64/speed.anim",
+                  "offset": 0,
+                  "invert": false,
+                  "mode": "VALUE",
+                  "frames_per_tick": 1.0
+                 },
+                 {
+                  "readout": "THROTTLE",
+                  "animatrix": "immersiverailroading:models/rolling_stock/locomotives/t5l64/ammeter.anim",
+                  "offset": 0,
+                  "invert": false,
+                  "mode": "VALUE",
+                  "frames_per_tick": 1.0
+                 },
+                 {
+                  "control_group": "ES",
+                  "animatrix": "immersiverailroading:models/rolling_stock/locomotives/t5l64/es.anim",
+                  "offset": 0,
+                  "invert": false,
+                  "mode": "loop",
+                  "frames_per_tick": 1.0,
+                  "sound": {
+					        "start": "sounds/idle/idle5_start.ogg",
+                            "main": "sounds/idle/idle5_main.ogg",
+							"stop": "sounds/idle/idle5_stop.ogg"
+                           }
+                 },
+                 {
+                  "control_group": "THYRISTOR",
+                  "animatrix": "immersiverailroading:models/rolling_stock/locomotives/t5l64/thyristor.anim",
+                  "offset": 0,
+                  "invert": true,
+                  "mode": "loop",
+                  "frames_per_tick": 1.0,
+                  "sound": {
+							"stop": "sounds/idle/thyristor4.ogg"
+                           }
+				 },
+                 {
+                  "control_group": "ELECTRON",
+                  "animatrix": "immersiverailroading:models/rolling_stock/locomotives/t5l64/sdoors.anim",
+                  "offset": 0,
+                  "invert": false,
+                  "mode": "PLAY_BOTH",
+                  "frames_per_tick": 1.0,
+                  "sound": {
+                            "main": "sounds/doors/sdoor2.ogg"
+                           }
+                 },
+                 {
+                  "control_group": "ID",
+                  "animatrix": "immersiverailroading:models/rolling_stock/locomotives/t5l64/idoor.anim",
+                  "offset": 0,
+                  "invert": false,
+                  "mode": "VALUE",
+                  "frames_per_tick": 1.0
+                 }
+                 
+                     ],
+	"lights": {
+                  "HEADLIGHT_3": {
+                   "castsLight": false,
+                   "blinkIntervalSeconds": 0.5,
+                   "blinkFullBright": true
+                                 },
+                  "HEADLIGHT_4": {
+                   "castsLight": false,
+                   "blinkIntervalSeconds": 0.5,
+                   "blinkFullBright": true
+                                 }
+	          }
+}

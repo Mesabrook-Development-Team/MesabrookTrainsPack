@@ -1,0 +1,24 @@
+{
+  "name": "Overhead Wire",
+  "models": {
+    ">0": "immersiverailroading:models/track/pole/wire_2.obj"
+  },
+  "materials": {
+    "TIE": [
+      {
+        "item": "ore:ingotIron",
+        "cost": 2
+      },
+      {
+        "item": "ore:stone",
+        "cost": 4
+      }
+    ],
+    "RAIL": [
+      {
+        "item": "ore:ingotIron",
+        "cost": 4
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Bombardier Monorail Beamway",
+  "models": {
+    ">0": "immersiverailroading:models/track/wdw_beamway/wdw_beamway.obj"
+  },
+  "materials": {
+    "TIE": [
+      {
+        "item": "ore:ingotIron",
+        "cost": 2
+      },
+      {
+        "item": "ore:stone",
+        "cost": 4
+      }
+    ],
+    "RAIL": [
+      {
+        "item": "ore:ingotIron",
+        "cost": 4
+      }
+    ]
+  }
+}

@@ -30,8 +30,14 @@
 	},
 	"sounds": {
 		"horn": "sounds/diesel/gp38_2/horn.ogg",
+<<<<<<< Updated upstream
 		"idle": "sounds/diesel/gp38_2/notch6.ogg",
                 "bell": "sounds/gevo/gevobell.ogg"
+=======
+		"idle": "sounds/diesel/gp38_2/idle.ogg",
+		"running": "sounds/diesel/gp38_2/notch6.ogg",
+		"bell": "sounds/gevo/gevobell.ogg"
+>>>>>>> Stashed changes
 	},
 	"tex_variants": {
 		"CRWX": "crwx"

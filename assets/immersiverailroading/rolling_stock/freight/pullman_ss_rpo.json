@@ -5,7 +5,12 @@
 	"model": "immersiverailroading:models/rolling_stock/freight/pullman_ss_rpo/pullman_ss_rpo.obj",
 	"darken_model": "-0.01",
 	"properties": {
+<<<<<<< Updated upstream
 		"weight_kg": 39000
+=======
+		"weight_kg": 39000,
+		"independent_brake": true
+>>>>>>> Stashed changes
 	},
 	"passenger": {
 		"slots": 8,

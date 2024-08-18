@@ -7,7 +7,12 @@
 		"CBP (Brown)":  "cbp_brown"
 	},
 	"properties": {
+<<<<<<< Updated upstream
 		"weight_kg": 18279
+=======
+		"weight_kg": 18279,
+		"independent_brake": true
+>>>>>>> Stashed changes
 	},
 	"passenger": {
 		"slots": 1,
