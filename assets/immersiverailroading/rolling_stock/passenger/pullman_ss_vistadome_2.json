@@ -5,9 +5,11 @@
 	"model": "immersiverailroading:models/rolling_stock/passenger/pullman_ss_vistadome_2/pullman_ss_vistadome.obj",
 	"darken_model": "-0.01",
 	"tex_variants": {
+		"North Port Rail":  "npr"
 	},
 	"properties": {
-		"weight_kg": 35000
+		"weight_kg": 35000,
+		"independent_brake": true
 	},
 	"passenger": {
 		"slots": 10,

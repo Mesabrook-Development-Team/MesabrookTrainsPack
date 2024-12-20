@@ -11,7 +11,8 @@
 	"sound_dampening_percentage": "0.00",
 	"properties": {
 		"weight_kg": 400,
-		"interior_light_level": 0.0	
+		"interior_light_level": 0.0,
+		"independent_brake": true	
 	},
 	"passenger": {
 		"slots": 1,

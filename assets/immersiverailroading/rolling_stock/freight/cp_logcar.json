@@ -5,7 +5,8 @@
 	"model": "immersiverailroading:models/rolling_stock/freight/cp_logcar/cp_logcar.obj",
 	"darken_model": "-0.01",
 	"properties": {
-		"weight_kg": 20000
+		"weight_kg": 20000,
+		"independent_brake": true
 	},
 	"passenger": {
 		"slots": 2,
@@ -15,7 +16,7 @@
 		"width": 1
 	},
 	    "freight": {
-        "slots": 1,
+        "slots": 2,
         "width": 1,
         "cargo": ["all"]
     },

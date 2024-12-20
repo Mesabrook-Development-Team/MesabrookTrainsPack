@@ -10,10 +10,12 @@
 		"CBP 3": "cbp3",
 		"GNCX": "gncx",
 		"PBLX": "pblx",
-		"NSCX":  "nscx"
+		"NSCX":  "nscx",
+		"RCPX": "rcpx"
 	},	
 	"properties": {
-		"weight_kg": 26000
+		"weight_kg": 26000,
+		"independent_brake": true
 	},
 	"passenger": {
 		"slots": 2,

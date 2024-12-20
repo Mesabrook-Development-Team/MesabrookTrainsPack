@@ -106,7 +106,8 @@
 			}
 		},
 		"horn": "sounds/diesel/u30/m3horn.ogg",
-		"idle": "sounds/diesel/u30/fdl12_full.ogg",
+		"idle": "sounds/diesel/u30/uboatidle.ogg",
+		"running": "sounds/diesel/u30/fdl12_full.ogg",
 		"bell": "sounds/diesel/bell.ogg"
 	},
 	"lights": {

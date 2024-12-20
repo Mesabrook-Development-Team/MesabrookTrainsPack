@@ -21,7 +21,8 @@
     "15": "15"
   },
   "properties": {
-    "weight_kg": 10205
+    "weight_kg": 10205,
+	"independent_brake": true	
   },
   "passenger": {
     "slots": 2,

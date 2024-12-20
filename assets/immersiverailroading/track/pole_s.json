@@ -1,0 +1,24 @@
+{
+  "name": "Catenary pole (wire)",
+  "models": {
+    ">0": "immersiverailroading:models/track/pole_s/pole_s.obj"
+  },
+  "materials": {
+    "TIE": [
+      {
+        "item": "ore:ingotIron",
+        "cost": 2
+      },
+      {
+        "item": "ore:stone",
+        "cost": 4
+      }
+    ],
+    "RAIL": [
+      {
+        "item": "ore:ingotIron",
+        "cost": 4
+      }
+    ]
+  }
+}

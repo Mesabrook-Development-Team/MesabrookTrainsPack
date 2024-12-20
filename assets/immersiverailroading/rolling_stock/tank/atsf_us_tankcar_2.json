@@ -10,7 +10,8 @@
 	},
     "darken_model": "-0.01",
     "properties": {
-        "weight_kg": 29075
+        "weight_kg": 29075,
+		"independent_brake": true
 
     },
     "passenger": {

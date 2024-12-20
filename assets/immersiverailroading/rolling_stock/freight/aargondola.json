@@ -12,7 +12,8 @@
 },
 	"darken_model": "0.0",
 	"properties": {
-		"weight_kg": 22170	
+		"weight_kg": 22170,
+		"independent_brake": true	
 	},
 	"passenger": {
 		"slots": 4,
