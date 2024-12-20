@@ -16,10 +16,13 @@
 		"Aurora Australis": "australis",
 		"Aurora Borealis": "borealis",
 		"Australis - Addie Jo": "australis_addie",
-		"Australis - Autumn": "australis_autumn"
+		"Australis - Autumn": "australis_autumn",
+		"Pullman Holiday 1": "holiday_1",
+		"Pullman Holiday 2": "holiday_2"
 	},
 	"properties": {
-		"weight_kg": 35000
+		"weight_kg": 35000,
+		"independent_brake": true
 	},
 	"passenger": {
 		"slots": 25,

@@ -6,9 +6,10 @@
 	"darken_model": "-0.01",
 	"model_gauge_m": 2.7,
 	"recommended_gauge_m": 0.9144,
-	show_current_load_only: true,
+	"show_current_load_only": true,
 	"properties": {
-		"weight_kg": 10885
+		"weight_kg": 10885,
+		"independent_brake": true
 	},
 	"passenger": {
 		"slots": 4,

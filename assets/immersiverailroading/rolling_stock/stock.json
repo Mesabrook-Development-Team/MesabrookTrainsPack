@@ -16,6 +16,9 @@
                 "ge50tonner",
 		"surfliner_cab",
 		"f59phi",
+                "25ton",
+                "t5l64",
+                "wdw_mark_vi",
 		"f150"
 	],
   "tender": [
@@ -39,6 +42,10 @@
                 "j&sbusiness",
                 "j&sobservation",
                 "coach7",
+                "wdw_mark_vi_car",
+                "wdw_mark_vi_diaphragm",
+                "t5l64_vag4",
+                "t5l64_vag3",
 		"surfliner_coach"
 	],
 	"freight": [

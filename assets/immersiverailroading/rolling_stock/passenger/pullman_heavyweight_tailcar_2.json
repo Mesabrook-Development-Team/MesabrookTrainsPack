@@ -6,10 +6,12 @@
 	"darken_model": "-0.01",
 	"tex_variants": {
 		"LNC": "lnc",
-		"Australis": "australis_tailcar"
+		"Australis": "australis_tailcar",
+		"Mesabrook Holiday": "holiday"
 	},
 	"properties": {
-		"weight_kg": 35000
+		"weight_kg": 35000,
+		"independent_brake": true
 	},
 	"passenger": {
 		"slots": 25,

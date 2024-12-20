@@ -1,0 +1,31 @@
+{
+	"name": "Mark VI Monorail Coach",
+	"works": "WED/Bombardier",
+	"modeler": "DarkRaider",
+	"pack": "DarkRaider's Monorails",
+	"model": "immersiverailroading:models/rolling_stock/wdw_mark_vi/wdw_mark_vi_car.obj",
+	"tex_variants": {
+		"RaiderTech Railroad": "rtr"
+	},
+	"darken_model": "-0.05",
+	"sound_dampening_percentage": "0.75",
+	"properties": {
+		"weight_kg": 7560
+	},
+	"passenger": {
+		"slots": 20,
+		"center_x": 0,
+		"center_y": 0.3295,
+		"length": 2.05,
+		"width": 1.65,
+		"should_sit": false
+	},
+	"trucks": {
+		"front": 3.4138, 
+		"rear": -3.4138
+	},
+    "couplers": {
+		"front_offset": 0.0,
+        "rear_offset": 0.0
+	}
+}

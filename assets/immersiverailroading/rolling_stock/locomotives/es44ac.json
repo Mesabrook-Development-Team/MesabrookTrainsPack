@@ -17,7 +17,8 @@
 		"IRW": "tracktester",
 		"IRW": "1403",
 		"North Port Rail":  "npr",
-		"Mesabrook Railroad Authority": "mra"
+		"Mesabrook Railroad Authority": "mra",
+		"IRW (Holiday)": "irw_holiday"
 	},
 	"darken_model": "0.00",
 	"sound_dampening_percentage": "0.75",
@@ -48,8 +49,11 @@
 	},
 	"sounds": {
 		"horn": "sounds/gevo/k5hll_horn.ogg",
-		"idle": "sounds/gevo/gevo12_notch6.ogg",
-                "bell": "sounds/gevo/gevobell.ogg"
+		"running": "sounds/diesel/c40/moderngenotch6.ogg",
+		"idle": "sounds/diesel/c40/ge7fdlidle.ogg",
+		"start": "sounds/diesel/c40/ge7fdlstart.ogg",
+		"stop": "sounds/diesel/c40/ge7fdlshutdown.ogg",
+		"bell": "sounds/gevo/gevobell.ogg"
 	},
 	"lights": {
 		"HEADLIGHT_1": {

@@ -11,10 +11,16 @@
 		"IRW": "70ton_lvn",
 		"IRW": "70ton_lvn_mroute",
 		"IRW": "70ton_sprr",
-		"RZFS": "70ton_rzfs"
+		"RZFS": "70ton_rzfs",
+		"IRW Holiday 1": "70ton_irw_holiday_1",
+		"IRW Holiday 2": "70ton_irw_holiday_2",
+		"IRW Holiday 3": "70ton_irw_holiday_3",
+		"IRW Holiday 4": "70ton_irw_holiday_4",
+		"IRW Holiday 5": "70ton_irw_holiday_5"
 	},	
 	"properties": {
-		"weight_kg": 33000
+		"weight_kg": 33000,
+		"independent_brake": true
 	},
 	"passenger": {
 		"slots": 2,

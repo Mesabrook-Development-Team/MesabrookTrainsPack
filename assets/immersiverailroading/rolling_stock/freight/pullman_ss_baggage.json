@@ -9,10 +9,12 @@
 		"N&W": "nw",
 		"C&O": "co",
 		"CP": "cp",
-		"Amtrak": "amtrak"
+		"Amtrak": "amtrak",
+		"North Port Rail":  "npr"
 	},
 	"properties": {
-		"weight_kg": 39000
+		"weight_kg": 39000,
+		"independent_brake": true
 	},
 	"passenger": {
 		"slots": 8,
