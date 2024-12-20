@@ -5,6 +5,7 @@
 	"model": "immersiverailroading:models/rolling_stock/passenger/pullman_ss_observation_2/pullman_ss_observation.obj",
 	"darken_model": "-0.01",
 	"tex_variants": {
+		"North Port Rail":  "npr"
 	},
 	"properties": {
 		"weight_kg": 35000,
