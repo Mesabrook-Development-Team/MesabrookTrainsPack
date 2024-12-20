@@ -8,12 +8,8 @@
 
 	"properties": {
 
-<<<<<<< Updated upstream
-		"weight_kg": 22500
-=======
 		"weight_kg": 22500,
 		"independent_brake": true
->>>>>>> Stashed changes
 	},
 
 	"passenger": {
