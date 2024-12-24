@@ -31,8 +31,8 @@
     "wdw_beamway",
     "pole",
     "pole_s",
-    "pole_s_s',
-    "pole_s_d',
+    "pole_s_s",
+    "pole_s_d",
     "pole_d",
     "concrete_wire_d",
     "rails_wire_d"
