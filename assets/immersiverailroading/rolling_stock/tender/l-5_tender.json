@@ -1,0 +1,35 @@
+{
+    "name": "Northern Pacific L-5 Tender",
+	"works": "Rogers Locomotive Works",
+    "modeler": "Xyvoracle",
+    "pack": "Northwest Railway Museum",
+    "model": "immersiverailroading:models/rolling_stock/tenders/l-5/l-5_0-6-0_tender.obj",
+
+    "darken_model": "0.0",
+	"model_gauge_m": 1.435,
+    "properties": {
+        "weight_kg": 10000
+	},
+	"tank": {
+		"capacity_l": 15000
+	},
+	"tender": {
+		"slots": 20,
+		"width": 5
+    },
+	"passenger": {
+        "slots": 2,
+        "center_x": 2.9,
+        "center_y": 1.5,
+        "length": 0.8,
+        "width": 2
+    },
+    "trucks": {
+        "front": 1.5625, 
+        "rear": -1.5625
+    },
+    "couplers": {
+        "front_offset": -0.15,
+        "rear_offset": -0.05
+	}
+}
