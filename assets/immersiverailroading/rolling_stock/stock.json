@@ -19,10 +19,12 @@
                 "25ton",
                 "t5l64",
                 "wdw_mark_vi",
+                "l-5",
 		"f150"
 	],
   "tender": [
-    "porter0-4-0tender"
+    "porter0-4-0tender",
+    "l-5_tender"
   ],
 	"hand_car": [
 	],
