@@ -38,16 +38,16 @@
         "rear_offset": -1.1
 	},
 	"sounds": {
-		"whistle": "sound/steam/l-5/whistle.ogg",
-		"bell": "sound/steam/l-5/bell.ogg",
-		"idle": "sound/steam/l-5/idle.ogg",
+		"whistle": "sounds/steam/l-5/whistle.ogg",
+		"bell": "sounds/steam/l-5/bell.ogg",
+		"idle": "sounds/steam/l-5/idle.ogg",
                 "quilling": [
             {
                 "pull_start": 0.25,
                 "pull_end": 0.55,
                 "pitch_start": 0.8,
                 "pitch_end": 1.0,
-                "sample": "sound/steam/l-5/whistle.ogg"
+                "sample": "sounds/steam/l-5/whistle.ogg"
             }
         ]
     }
