@@ -11,7 +11,8 @@
 		"GNCX": "gncx",
 		"PBLX": "pblx",
 		"NSCX":  "nscx",
-		"RCPX": "rcpx"
+		"RCPX": "rcpx",
+		"AVEX": "avex"
 	},	
 	"properties": {
 		"weight_kg": 26000,
