@@ -1,9 +1,9 @@
 {
-    "name": "Northern Pacific L-5 Tender",
+    "name": "L-5 Tender",
 	"works": "Rogers Locomotive Works",
     "modeler": "Xyvoracle",
     "pack": "Northwest Railway Museum",
-    "model": "immersiverailroading:models/rolling_stock/tenders/l-5/l-5_0-6-0_tender.obj",
+    "model": "immersiverailroading:models/rolling_stock/tender/l-5/l-5_0-6-0_tender.obj",
 
     "darken_model": "0.0",
 	"model_gauge_m": 1.435,
