@@ -11,11 +11,11 @@
 	"properties": {
 		"max_psi": 155,
 		"water_capacity_l": 4000,
-		"horsepower": 8200,
-		"tractive_effort_lbf": 66000,
+		"horsepower": 2500,
+		"tractive_effort_lbf": 36500,
 		"max_speed_kmh": 85,
 		"valve_gear": "stephenson",
-		"weight_kg": 82160
+		"weight_kg": 90160
 	},
 	"firebox": {
 		"slots": 3,
